@@ -15,7 +15,7 @@ Sistem kasir laundry berbasis PHP dan MySQL. Dibuat untuk membantu pencatatan tr
 - HTML, CSS, JavaScript
 
 ## 🖼 Screenshot
-![Tampilan Web](https://github.com/sazuura/Laundry/screenshot.png)
+![Tampilan Web](https://github.com/sazuura/laundry/screenshot.png)
 
 ## 💡 Cara Menjalankan
 1. Clone repo ini:
